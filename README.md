@@ -5,6 +5,7 @@ This is Work in Progress.
 The add-on urrently supports looking up counties in the following countries:
 * Denmark
 * Norway
+* Sweden
 
 ##How to use this:
 <pre>
@@ -22,3 +23,4 @@ I am not the author of any of the KMZ files included and cannot guarantee their 
 ##Attributions:
 * Denmark: http://www.microformats.dk/2009/10/04/danmarks-administrative-geografiske-inddeling-dagi-kml-version/
 * Norway: http://www.norgeo.no/Generer_KML.html
+* Sweden: https://community.qlik.com/thread/137255
