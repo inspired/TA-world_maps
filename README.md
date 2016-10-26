@@ -16,7 +16,7 @@ index=* sourcetype=csv_opendata | eval latitude=lat | eval longitude=lon | looku
 </pre>
 
 ##Copyleft
-All KMZ files included in this app have been collected from various source. I have not made any changes to the files, but may have merged files in required cases.
+All KMZ files included in this app have been collected from various sources. I have not made any changes to the files, but may have merged files if necessary.
 I am not the author of any of the KMZ files included and cannot guarantee their accuracy.
 
 ##Attributions:
