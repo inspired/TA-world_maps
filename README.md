@@ -1,5 +1,10 @@
-# TA-maps_europe
-Splunk maps for Europe
+=Splunk World Maps
+
+This is Work in Progress. 
+
+The add-on urrently supports looking up counties in the following countries:
+* Denmark
+* Norway
 
 How to use this:
 <pre>
