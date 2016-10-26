@@ -1,4 +1,4 @@
-=Splunk World Maps
+= Splunk World Maps
 
 This is Work in Progress. 
 
