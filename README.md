@@ -1,4 +1,4 @@
-=Splunk World Maps=
+#World Maps Add-on for Splunk Enterprise
 
 This is Work in Progress. 
 
