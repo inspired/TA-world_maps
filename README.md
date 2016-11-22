@@ -2,18 +2,18 @@
 
 This is Work in Progress. 
 
-The add-on urrently supports looking up counties in the following countries:
+The add-on currently supports looking up municipalities in the following countries:
 * Denmark
 * Norway
 * Sweden
 
 ##How to use this:
 <pre>
-| makeresults | eval latitude="59.773147" | eval longitude="10.800195" |lookup geo_no_counties latitude longitude | stats count by featureId | geom geo_no_counties
+| makeresults | eval latitude="59.773147" | eval longitude="10.800195" |lookup geo_no_municipalities latitude longitude | stats count by featureId | geom geo_no_municipalities
 </pre>
 
 <pre>
-index=* sourcetype=csv_opendata | eval latitude=lat | eval longitude=lon | lookup geo_dk_counties latitude longitude | stats count by featureId | geom geo_dk_counties
+index=* sourcetype=csv_opendata | eval latitude=lat | eval longitude=lon | lookup geo_dk_municipalities latitude longitude | stats count by featureId | geom geo_dk_municipalities
 </pre>
 
 ##Copyleft
