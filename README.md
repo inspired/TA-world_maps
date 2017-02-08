@@ -87,7 +87,7 @@ Version 1.0 of the World Maps Add-on for Splunk Enterprise incorporates the foll
 
 **The World Maps Add-on for Splunk Enterprise is completely unsupported.**
 
-* Access questions and answers specific to the World Maps Add-on for Splunk Enterprise at http://answers.splunk.com/answers/app/NNNN
+* Access questions and answers specific to the World Maps Add-on for Splunk Enterprise at http://answers.splunk.com/answers/app/3474
 * If you have maps and want them added, please do a pull request: https://github.com/inspired/TA-world_maps
 
 ## INSTALLATION AND CONFIGURATION
